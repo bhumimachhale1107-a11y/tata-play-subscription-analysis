@@ -1,66 +1,69 @@
 # 📊 Tata Play Customer Subscription Analysis
 
-⚠️ This project is currently in progress. More updates will be added soon.
-
 ## 📌 Project Overview
-This project focuses on analyzing customer subscription patterns in Tata Play using business analytics techniques. The study is based on survey data and aims to understand customer behavior, preferences, and factors influencing subscription decisions.
+
+This project analyzes customer subscription behavior in Tata Play using Excel-based Business Analytics techniques. The goal is to identify patterns in customer preferences, recharge behavior, and satisfaction levels to support data-driven decision-making.
 
 ---
 
-## 🎯 Objectives
-- To analyze customer subscription patterns based on demographics and behavior
-- To study recharge frequency and subscription preferences
-- To identify key factors influencing customer decisions
-- To understand the role of business analytics in improving customer satisfaction and retention
+## 🛠 Tools Used
+
+* Microsoft Excel
+* Pivot Tables
+* Data Visualization (Dashboard)
 
 ---
 
-## 🛠 Tools & Techniques Used
-- Microsoft Excel
-- Percentage Analysis
-- Comparative Analysis
-- Data Visualization (Charts & Graphs)
+## 📊 Dashboard Preview
 
----
-
-## 📊 Key Analysis Performed
-- Age-wise distribution of users
-- Gender and occupation analysis
-- Income vs subscription preference
-- Recharge frequency analysis
-- Viewing behavior analysis
-- Factors influencing subscription decisions
+![Dashboard](dashboard/dashboard.png)
 
 ---
 
 ## 📈 Key Insights
-- Majority of users belong to the 21–30 age group
-- Monthly recharge is the most preferred option
-- Price and HD quality are major influencing factors
-- Entertainment channels are the most preferred category
-- Customers value flexibility and affordability in subscription plans
+
+* Majority of users belong to the **21–30 age group**
+* **Monthly recharge** is the most preferred option
+* **Combo/Customized pack (35%)** is the most popular subscription plan
+* **Average satisfaction score is 3.55/5**, indicating moderate satisfaction
+* **Price and HD quality** are key decision factors
+* Customers prefer **flexible and short-term subscription plans**
 
 ---
 
-## 💡 Business Recommendations
-- Focus on youth-oriented content and digital engagement
-- Offer flexible and affordable subscription plans
-- Improve personalization using customer data
-- Use analytics to predict churn and improve retention strategies
+## 📊 Key Analysis Performed
+
+* Age-wise distribution of users
+* Subscription plan preference analysis
+* Recharge frequency analysis
+* Customer satisfaction analysis
+* Age vs Plan and Income vs Plan analysis
 
 ---
 
-## 📂 Project Files
-- Dataset (Excel file)
-- Data analysis and charts
-- Project report (PDF)
+## 📂 Project Structure
+
+* `data/` → Raw dataset
+* `analysis/` → Excel analysis with pivot tables
+* `dashboard/` → Final dashboard
 
 ---
 
 ## 🚀 Conclusion
-The project highlights how business analytics can be used to understand customer behavior and support data-driven decision-making in subscription-based business models like Tata Play.
+
+The analysis shows that Tata Play customers are primarily young and prefer flexible, value-based subscription plans. Business analytics helps in identifying customer behavior patterns, improving service quality, and enhancing customer retention.
 
 ---
 
-## 🔗 Author
-**Bhumika Machhale**
+## ⭐ Future Improvements
+
+* Power BI interactive dashboard
+* Python-based analysis (Pandas, Matplotlib)
+* Predictive analytics for customer churn
+
+---
+
+## 👩‍💻 Author
+
+**Bhumi Machhale**
+
